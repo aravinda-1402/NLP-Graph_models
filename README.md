@@ -1,2 +1,2 @@
-# pytorchprgs
-Pytorch programs for NLP models
+# Pytorch programs for NLP models
+
